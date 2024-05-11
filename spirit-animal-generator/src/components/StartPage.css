@@ -1,0 +1,28 @@
+.start-page {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  text-align: center;
+}
+
+.start-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #937651;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.banner-image {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
+.button-container {
+  margin-top: 20px;
+}
